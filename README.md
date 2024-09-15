@@ -19,7 +19,7 @@ A solo project developed in Python with a GUI interface as part of my university
 🧩 Game logic implementation
 🤝 Interactive player modes
 🖌️ Intuitive and user-friendly design
-[View the Project]()
+[View the Project](https://github.com/alladin2012/ChineseCheckersG.py)
 
 🔍 Boggle Game
 A Boggle game developed in Python that allows players to find words on a randomly generated board of letters. This project showcases my skills in:
@@ -27,7 +27,7 @@ A Boggle game developed in Python that allows players to find words on a randoml
 🔠 Implementing search algorithms for word finding
 🎲 Random board generation and validation
 🕹️ Interactive gameplay with scoring and timing elements
-[View the Project]()
+[View the Project](https://github.com/alladin2012/Boogle_project)
 
 🎓 Education
 B.Sc. in Computer Science
